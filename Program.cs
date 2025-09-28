@@ -1,0 +1,18 @@
+﻿Console.Clear();
+Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.DarkRed;
+Console.Write("S");
+Console.Write("Ã");
+Console.ForegroundColor = ConsoleColor.White;
+Console.Write("O ");
+Console.Write("P");
+Console.ForegroundColor = ConsoleColor.Black;
+Console.Write("A");
+Console.Write("U");
+Console.ForegroundColor = ConsoleColor.DarkRed;
+Console.Write("L");
+Console.Write("O");
+Console.ForegroundColor = ConsoleColor.White;
+Console.Write(" F");
+Console.Write("C");
+Console.ResetColor();
